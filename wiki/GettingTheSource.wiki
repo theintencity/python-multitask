@@ -1,0 +1,6 @@
+#summary Getting the source with bzr
+
+The multitask source is maintained in a [http://bazaar-vcs.org/ Bazaar] repository.  To create a local copy, use the [http://doc.bazaar-vcs.org/latest/en/user-reference/bzr_man.html#branch branch] command:
+{{{
+bzr branch http://pseudogreen.org/bzr/multitask/
+}}}
